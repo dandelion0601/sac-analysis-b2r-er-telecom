@@ -66,10 +66,11 @@
 
 ## 📊 Визуализация
 <img width="1745" height="232" alt="SAC1" src="https://github.com/user-attachments/assets/613fe6da-4ff9-4e5b-8221-d1f400f08876" />
-<img width="443" height="533" alt="SAC2" src="https://github.com/user-attachments/assets/5fbc47cc-4e9b-49df-9e03-7f69e7df08fe" />
+<img width="840" height="246" alt="SAC2" src="https://github.com/user-attachments/assets/4a497474-06db-480e-8966-66bc0ea789e0" />
 <img width="1032" height="254" alt="SAC3" src="https://github.com/user-attachments/assets/a1030fb7-6f6a-4a8f-b836-9c940237eed6" />
 <img width="940" height="537" alt="SAC4" src="https://github.com/user-attachments/assets/8a9157da-c721-4b5f-9d6e-eafdd561878c" />
-<img width="444" height="581" alt="SAC5" src="https://github.com/user-attachments/assets/7125cece-6f09-4d5d-adad-24739a4ef124" />
+<img width="925" height="247" alt="SAC5" src="https://github.com/user-attachments/assets/77cf77f0-e325-4a1f-acb0-316bc6fb7b63" />
+
 
 > **Примеры дашбордов**:
 > - Сравнение SAC по каналам (план vs факт)
